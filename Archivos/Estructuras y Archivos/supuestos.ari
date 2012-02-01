@@ -1,0 +1,8 @@
+- El rut es de la forma 12345678-9
+- El para comprobar el orden alfabetico, es indiferente si es mayusculas o minusculas, en caso de comprobar se cambia todo a mayusculas.
+- Todos los datos pedidos al usuario seran ingresados de forma perfecta, solo en casos puntuales se comprueban datos.
+- Nuestro programa puede funcionar sin necesidad de archivos, ya que puede crearlos.
+- No se repiten cocineros con el mismo modulo de rut.
+- Se actualizan lso ingredientes si existen y se suman sus stocks.
+- se compila con "clear && gcc tarea1.c -o tarea1 -Wall -pedantic -ggdb && ./tarea1"
+- El administrador se crea en la primera sesion.
